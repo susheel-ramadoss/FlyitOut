@@ -1,0 +1,14 @@
+com/flyitout/MainActivity.java
+ com.flyitout.MainActivity
+com/flyitout/MainApplication.java
+ com.flyitout.MainApplication
+ com.flyitout.MainApplication$1
+com/flyitout/BuildConfig.java
+ com.flyitout.BuildConfig
+com/flyitout/ReactNativeFlipper.java
+ com.flyitout.ReactNativeFlipper
+ com.flyitout.ReactNativeFlipper$1
+ com.flyitout.ReactNativeFlipper$2
+ com.flyitout.ReactNativeFlipper$2$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

@@ -1,0 +1,9 @@
+<svg id="icn_home" data-name="icn / home" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_13032" data-name="Group 13032" transform="translate(-3453 -2210)">
+    <g id="Rectangle_3200" data-name="Rectangle 3200" transform="translate(3453 2210)" fill="#8c57f0" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="24" height="24" stroke="none"/>
+      <rect x="0.5" y="0.5" width="23" height="23" fill="none"/>
+    </g>
+    <path id="home-solid" d="M14.281,2.594l-.629.6L2.281,14.566l1.257,1.257L4.659,14.7V24.817h7.872V16.07h3.5v8.747H23.9V14.7l1.121,1.121,1.257-1.257L14.91,3.2Zm0,2.487,7.872,7.872V23.068H17.78V14.32h-7v8.747H6.409V12.954Z" transform="translate(3450.719 2208.406)" fill="#8c57f0"/>
+  </g>
+</svg>

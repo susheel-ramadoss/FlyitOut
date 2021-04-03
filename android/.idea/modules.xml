@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/flyitout.iml" filepath="$PROJECT_DIR$/.idea/modules/flyitout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/flyitout.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/flyitout.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1724857435/flyitout.react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/1724857435/flyitout.react-native-community_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-63892921/flyitout.react-native-community_clipboard.iml" filepath="$PROJECT_DIR$/.idea/modules/-63892921/flyitout.react-native-community_clipboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/98956824/flyitout.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/98956824/flyitout.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-110626369/flyitout.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-110626369/flyitout.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1317333326/flyitout.react-native-image-crop-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-1317333326/flyitout.react-native-image-crop-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/509324753/flyitout.react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/509324753/flyitout.react-native-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-295089923/flyitout.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-295089923/flyitout.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1713610344/flyitout.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/1713610344/flyitout.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2076811136/flyitout.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-2076811136/flyitout.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1716285833/flyitout.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-1716285833/flyitout.react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>
